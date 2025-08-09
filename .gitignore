@@ -1,0 +1,8 @@
+/.ipynb
+/.py
+/.pysc
+rnn/
+lstm/
+gru/
+data/
+__pycache__/
